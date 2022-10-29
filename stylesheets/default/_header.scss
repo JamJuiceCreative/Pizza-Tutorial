@@ -1,0 +1,36 @@
+.header {
+    background: black;
+
+}
+
+.store-info-header {
+    max-width: 1180px;
+    margin: 0 auto;
+
+}
+
+
+.header {
+  .nav-container {
+    
+    background-color: white;
+    display: flex;
+  }
+
+}
+
+.nav-bar-btns {
+    display: flex;
+  a {
+    background: $primary-color;
+    color: white;
+    padding: 16px 8px;
+
+  }
+
+}
+
+.nav-bar-links {
+    display : flex;
+}
+

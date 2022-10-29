@@ -1,0 +1,27 @@
+// defaults settings
+
+
+@import './reset';
+@import './colors';
+@import './sizes';
+
+// components
+
+@import './header';
+
+
+
+
+.header {
+    background: rgb(0, 0, 0);
+
+}
+
+.store-info-header {
+    max-width: 1180px;
+    margin: 0 auto;
+    display: inline-flex;
+    justify-content:space-between;
+}
+
+

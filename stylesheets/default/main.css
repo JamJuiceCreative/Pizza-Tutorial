@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-border;
+}
+
+.header {
+  background: black;
+}
+
+.store-info-header {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.header .nav-container {
+  background-color: white;
+  display: flex;
+}
+
+.nav-bar-btns {
+  display: flex;
+}
+.nav-bar-btns a {
+  background: #ed1c24;
+  color: white;
+  padding: 16px 8px;
+}
+
+.nav-bar-links {
+  display: flex;
+}
+
+.header {
+  background: rgb(0, 0, 0);
+}
+
+.store-info-header {
+  max-width: 1180px;
+  margin: 0 auto;
+  display: inline-flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=main.css.map */
